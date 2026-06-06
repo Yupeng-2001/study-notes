@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="I-p418QRJrGFNobrY_oy">
-    <mxGraphModel dx="1923" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,6 +351,24 @@
         </mxCell>
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Failing to abstract common microservices tasks&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="480" x="2790" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-129" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Other things" vertex="1">
+          <mxGeometry height="60" width="120" x="2660" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-131" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BoostASIO" vertex="1">
+          <mxGeometry height="60" width="120" x="2890" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="C++ library that used for network connections&lt;div&gt;ASIO -&amp;gt; asynIO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="3090" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="provide asyn_recv kind of interface" vertex="1">
+          <mxGeometry height="60" width="330" x="3090" y="1350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
