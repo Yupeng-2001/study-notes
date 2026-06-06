@@ -511,6 +511,9 @@
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Efficiently serving, transferring, and processing large datasets through high-performance C++ services." vertex="1">
           <mxGeometry height="40" width="590" x="5510" y="1410" as="geometry" />
         </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="question: network within should be fast, why is there a need for high performance C++ networking&lt;div&gt;answer: The problem is likely comming from large data volume&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="370" x="5510" y="1850" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
