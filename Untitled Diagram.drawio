@@ -49,8 +49,146 @@
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;They communicate through well-defined APIs, which keeps internal implementations hidden from other services&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="450" x="1000" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=16;" value="Components" vertex="1">
-          <mxGeometry height="60" width="170" x="380" y="340" as="geometry" />
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-19" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-45" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-51" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-52" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-53" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;other components appear in a typical microservices architecture&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="490" x="170" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-21" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-46" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Management or orchestration&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="275" x="755" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;It schedules and deploys services across nodes, detects failures, recovers from failures, and enables autoscaling based on demand.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="520" x="1150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-47" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-50" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;API gateway&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="755" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-48" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-49" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;The API gateway serves as the entry point for clients&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="430" x="970" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;The gateway forwards client&#39;s requests to the appropriate back-end services.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="620" x="1500" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="also handles cross-cutting concerns such as authentication, logging, and load balancing.&lt;br&gt;(PS: cross-cutting concerns are application-wide functionalities that affect multiple modules)" vertex="1">
+          <mxGeometry height="60" width="730" x="1500" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Kubernetes&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;nvoy and Nginx support internal service-to-service communication&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="500" x="970" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-54" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-56" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Message-oriented middleware&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="255" x="755" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;event-driven architectures. This approach allows services to react to events in real time and communicate through asynchronous messaging.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="530" x="1560" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Apache Kafka and Azure Service Bus&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="1100" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-55" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;asynchronous communication in microservices&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="390" x="1090" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-57" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-59" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-60" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-61" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Observability&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="755" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-58" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;helps teams maintain system reliability and resolve problems quickly&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="520" x="990" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Centralized logging brings logs together to support easier diagnostics.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="540" x="990" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Real-time monitoring provides visibility into system health and performance.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="580" x="990" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Distributed tracing tracks requests across service boundaries&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="460" x="990" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;helps teams find bottlenecks and improve performance.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="1570" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-62" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-64" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-65" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Data management&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="755" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-63" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Each service owns its data and schema.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="990" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;choosing different database types, such as SQL or NoSQL, based on each service’s specific needs&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="700" x="990" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;polyglot&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Variable Text&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;reduces cross-service dependencies and allows services to evolve independently&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="600" x="1380" y="1670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
