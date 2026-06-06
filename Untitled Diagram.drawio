@@ -361,6 +361,9 @@
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-131" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-133" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPvgAa_iKYEpdZ_FDVAW-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BoostASIO" vertex="1">
           <mxGeometry height="60" width="120" x="2890" y="1270" as="geometry" />
         </mxCell>
@@ -368,7 +371,22 @@
           <mxGeometry height="60" width="350" x="3090" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="IPvgAa_iKYEpdZ_FDVAW-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="provide asyn_recv kind of interface" vertex="1">
-          <mxGeometry height="60" width="330" x="3090" y="1350" as="geometry" />
+          <mxGeometry height="60" width="260" x="3090" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SQL" vertex="1">
+          <mxGeometry height="60" width="120" x="2890" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-136" edge="1" parent="1" source="IPvgAa_iKYEpdZ_FDVAW-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPvgAa_iKYEpdZ_FDVAW-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Need revision" vertex="1">
+          <mxGeometry height="60" width="120" x="2650" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data serialization&lt;div&gt;Apache Arrow / Parquet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="2890" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="IPvgAa_iKYEpdZ_FDVAW-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="gRPC, http/REST&lt;div&gt;Web socket protocols&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="2890" y="1540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
