@@ -4,6 +4,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="https://www.geeksforgeeks.org/cpp/cpp-interview-questions/" link="https://www.geeksforgeeks.org/cpp/cpp-interview-questions/" id="DLAwvipNG0UIDfYgDG8_-1">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="410" x="90" y="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-10" edge="1" parent="1" source="DLAwvipNG0UIDfYgDG8_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLAwvipNG0UIDfYgDG8_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-11" edge="1" parent="1" source="DLAwvipNG0UIDfYgDG8_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DLAwvipNG0UIDfYgDG8_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-12" edge="1" parent="1" source="DLAwvipNG0UIDfYgDG8_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DLAwvipNG0UIDfYgDG8_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="references" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="acts as a synonym for a variable" vertex="1">
+          <mxGeometry height="60" width="270" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(39, 50, 57); font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;must be initialized when created&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="avoiding the overhead of copying large objects" vertex="1">
+          <mxGeometry height="60" width="280" x="320" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-13" edge="1" parent="1" source="DLAwvipNG0UIDfYgDG8_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DLAwvipNG0UIDfYgDG8_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-14" edge="1" parent="1" source="DLAwvipNG0UIDfYgDG8_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DLAwvipNG0UIDfYgDG8_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="token in C++" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="smallest element that is understood by a compiler" vertex="1">
+          <mxGeometry height="60" width="350" x="320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Keywords - That contain a special meaning to the compiler&lt;/div&gt;&lt;div&gt;Identifiers - That hold a unique value/identity&amp;nbsp;&lt;/div&gt;&lt;div&gt;Constants - That never change their value throughout the program&amp;nbsp;&lt;/div&gt;&lt;div&gt;Strings - That contains the homogenous sequence of data&amp;nbsp;&lt;/div&gt;&lt;div&gt;Special Symbols - They have some special meaning and cannot be used for another purpose; eg: [] () {}, ; * = #&amp;nbsp;&lt;/div&gt;&lt;div&gt;Operators - Who perform operations on the operand&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="710" x="320" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="difference between struct and class" vertex="1">
+          <mxGeometry height="60" width="250" x="90" y="740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
