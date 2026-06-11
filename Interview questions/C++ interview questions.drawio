@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="19OSUmx2aHzzQhlcOI9i">
-    <mxGraphModel dx="1768" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
         <mxCell id="DLAwvipNG0UIDfYgDG8_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="acts as a synonym for a variable" vertex="1">
           <mxGeometry height="60" width="270" x="320" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="DLAwvipNG0UIDfYgDG8_-4" parent="1" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=0;html=1;" value="must be initialized when created" vertex="1">
+        <mxCell id="DLAwvipNG0UIDfYgDG8_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(39, 50, 57); font-family: Nunito, sans-serif; font-size: 18px; letter-spacing: 0.162px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;must be initialized when created&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="320" y="240" as="geometry" />
         </mxCell>
         <mxCell id="DLAwvipNG0UIDfYgDG8_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="avoiding the overhead of copying large objects" vertex="1">
