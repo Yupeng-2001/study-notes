@@ -1,0 +1,2 @@
+in section 2.3, the last part about the cuda graph is not captured correctly in pdf
+later can read it if I have time.
