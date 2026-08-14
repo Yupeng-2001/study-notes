@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8L35anwFnJLiu572xgxH">
-    <mxGraphModel dx="3971" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1293,6 +1293,9 @@
         </mxCell>
         <mxCell id="cRiNIj0diN6B2rstdv82-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="下面示例使用时，只用了get_last_execution&lt;div&gt;意味着只有最新的一组执行和反思被使用&lt;/div&gt;&lt;div&gt;而不是从初稿开始的所有版本&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="285" x="730" y="9700" as="geometry" />
+        </mxCell>
+        <mxCell id="ObQ0_BcDOODYrLftHPqw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="Thought没有被记录" vertex="1">
+          <mxGeometry height="30" width="220" x="1760" y="4290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
