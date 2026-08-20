@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZTxeVlT8j91b6lxPhuQH">
-    <mxGraphModel dx="1818" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,19 @@
           <mxGeometry height="60" width="300" x="20" y="270" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
+          <mxGeometry height="60" width="550" x="4600" y="5005" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
+          <mxGeometry height="60" width="550" x="4600" y="5005" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" value="&#xa;&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;_save_as_note&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;str&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;response&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;str&lt;/span&gt;):&#xa;        &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;将交互保存为笔记&quot;&quot;&quot;&lt;/span&gt;&#xa;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;try&lt;/span&gt;:&#xa;            &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 判断应该保存为什么类型的笔记&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;问题&quot;&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;阻塞&quot;&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;:&#xa;                &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_type&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;blocker&quot;&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;计划&quot;&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;下一步&quot;&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;:&#xa;                &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_type&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;action&quot;&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;else&lt;/span&gt;:&#xa;                &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_type&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;conclusion&quot;&lt;/span&gt;&#xa;&#xa;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;note_tool&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;run&lt;/span&gt;({&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;action&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;create&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;title&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;f&quot;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;user_input&lt;/span&gt;[:&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;30&lt;/span&gt;]&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;...&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;content&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;f&quot;## 问题&lt;span class=&quot;pl-cce&quot; style=&quot;box-sizing: border-box;&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;user_input&lt;/span&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;pl-cce&quot; style=&quot;box-sizing: border-box;&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;pl-cce&quot; style=&quot;box-sizing: border-box;&quot;&gt;\n&lt;/span&gt;## 分析&lt;span class=&quot;pl-cce&quot; style=&quot;box-sizing: border-box;&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;note_type&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_type&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;tags&quot;&lt;/span&gt;: [&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;project_name&lt;/span&gt;, &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;auto_generated&quot;&lt;/span&gt;]&#xa;            })&#xa;&#xa;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;pl-v&quot; style=&quot;box-sizing: border-box; color: rgb(149, 56, 0);&quot;&gt;Exception&lt;/span&gt; &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;e&lt;/span&gt;:&#xa;            &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;f&quot;[WARNING] 保存笔记失败: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;)&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="469" width="710" x="4780" y="5845" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" value="&#xa;&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;_retrieve_relevant_notes&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;query&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;str&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;limit&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;3&lt;/span&gt;) &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;pl-v&quot; style=&quot;box-sizing: border-box; color: rgb(149, 56, 0);&quot;&gt;List&lt;/span&gt;[&lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;Dict&lt;/span&gt;]:&#xa;        &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;检索相关笔记&quot;&quot;&quot;&lt;/span&gt;&#xa;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;try&lt;/span&gt;:&#xa;            &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 优先检索 blocker 和 action 类型的笔记&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;blockers&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;note_tool&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;run&lt;/span&gt;({&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;action&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;list&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;note_type&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;blocker&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;limit&quot;&lt;/span&gt;: &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;2&lt;/span&gt;&#xa;            })&#xa;&#xa;            &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 通用搜索&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;search_results&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;note_tool&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;run&lt;/span&gt;({&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;action&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;search&quot;&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;query&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;query&lt;/span&gt;,&#xa;                &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;limit&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;limit&lt;/span&gt;&#xa;            })&#xa;&#xa;            &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 合并并去重&lt;/span&gt;&#xa;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;all_notes&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; {&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note&lt;/span&gt;[&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&#39;note_id&#39;&lt;/span&gt;]: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note&lt;/span&gt; &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;blockers&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;search_results&lt;/span&gt;}&#xa;            &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;list&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;all_notes&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;values&lt;/span&gt;())[:&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;limit&lt;/span&gt;]&#xa;&#xa;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;pl-v&quot; style=&quot;box-sizing: border-box; color: rgb(149, 56, 0);&quot;&gt;Exception&lt;/span&gt; &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;e&lt;/span&gt;:&#xa;            &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;f&quot;[WARNING] 笔记检索失败: &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;)&#xa;            &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;return&lt;/span&gt; []&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="555" width="720" x="4780" y="5261" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" value="&lt;br&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;run&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;str&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_as_action&lt;/span&gt;: &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;bool&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;False&lt;/span&gt;) &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;str&lt;/span&gt;:&lt;br&gt;        &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;运行助手,自动集成笔记&quot;&quot;&quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 1. 从 NoteTool 检索相关笔记&lt;/span&gt;&lt;br&gt;        &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;relevant_notes&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;_retrieve_relevant_notes&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 3. 构建优化的上下文&lt;/span&gt;&lt;br&gt;        &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;context&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;context_builder&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;build&lt;/span&gt;(...,&lt;br&gt;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;custom_packets&lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_packets&lt;/span&gt;&lt;br&gt;        )&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 4. 调用 LLM&lt;/span&gt;&lt;br&gt;        &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;response&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;llm&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;invoke&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;context&lt;/span&gt;)&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 5. 如果需要,将交互记录为笔记&lt;/span&gt;&lt;br&gt;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_as_action&lt;/span&gt;:&lt;br&gt;            &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;_save_as_note&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;user_input&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;response&lt;/span&gt;)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;....&lt;br&gt;        &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;response&lt;/span&gt;&lt;/pre&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="469" width="630" x="3940" y="5490" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" value="&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; text-align: start;&quot;&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;id&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;note_20250119_153000_0&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;title&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;项目进展 - 第一阶段&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;type&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;task_state&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;tags&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;[refactoring, phase1, backend]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;pl-mh&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174); font-weight: 700;&quot;&gt;# &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box;&quot;&gt;项目进展 - 第一阶段&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-mh&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174); font-weight: 700;&quot;&gt;## &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box;&quot;&gt;完成情况&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;已完成数据模型层的重构,主要改动包括:&lt;br&gt;。。。&lt;/pre&gt;" vertex="1">
           <mxGeometry height="290" width="352" x="3940" y="1110" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry height="60" width="550" x="827" y="610" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;这是整个流水线的核心，直接决定了最终上下文的质量&lt;/span&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="60" width="270" x="2190" y="4720" as="geometry" />
@@ -258,145 +258,145 @@
           <mxGeometry height="60" width="270" x="2205" y="4980" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-172" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-173" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+          <mxGeometry height="60" width="270" x="4853" y="5105" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&#xa;&lt;h3 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: 600; line-height: 1.25; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;9.4.4 与 ContextBuilder 的深度集成&lt;/h3&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="270" x="3549" y="5860" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-209" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-201">
           <mxGeometry relative="1" as="geometry" />
@@ -613,6 +613,42 @@
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-258" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; text-align: start;&quot;&gt;&lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;_delete_note&lt;/span&gt;(...) &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box;&quot;&gt;str&lt;/span&gt;:&lt;br&gt;    &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;删除笔记&lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 1. 删除文件...&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 2. 从索引中移除...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="130" width="303" x="4147" y="5020" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-259" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.889;exitY=0.235;exitDx=0;exitDy=0;exitPerimeter=0;" target="tNFW55iZ728InIklxEnu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-260" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.73;exitY=0.853;exitDx=0;exitDy=0;exitPerimeter=0;" target="tNFW55iZ728InIklxEnu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-266" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="540" x="4890" y="5900" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="笔记的类型选择是搜关键词" vertex="1">
+          <mxGeometry height="40" width="180" x="5250" y="5900" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-267" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="540" x="4890" y="6080" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="笔记内容包含：这次的用户输入和LLM回答&lt;div&gt;和历史记录差不多&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="5180" y="6080" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-269" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="590" x="4880" y="5620" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-270" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="120" width="540" x="4880" y="5490" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="120" width="540" x="4880" y="5350" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-261" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="搜现有的问题/阻塞" vertex="1">
+          <mxGeometry height="30" width="130" x="5270" y="5360" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="搜 用户query相关笔记" vertex="1">
+          <mxGeometry height="30" width="150" x="5250" y="5500" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回笔记" vertex="1">
+          <mxGeometry height="30" width="150" x="5310" y="5620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
