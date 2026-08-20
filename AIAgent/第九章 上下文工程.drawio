@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZTxeVlT8j91b6lxPhuQH">
-    <mxGraphModel dx="3460" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,25 @@
           <mxGeometry height="60" width="300" x="20" y="270" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+          <mxGeometry height="60" width="550" x="2440" y="2080" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" value="&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; text-align: start;&quot;&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;id&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;note_20250119_153000_0&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;title&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;项目进展 - 第一阶段&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;type&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;task_state&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;tags&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;[refactoring, phase1, backend]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;pl-mh&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174); font-weight: 700;&quot;&gt;# &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box;&quot;&gt;项目进展 - 第一阶段&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;pl-mh&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174); font-weight: 700;&quot;&gt;## &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box;&quot;&gt;完成情况&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;已完成数据模型层的重构,主要改动包括:&lt;br&gt;。。。&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="290" width="352" x="3940" y="1110" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="550" x="3308" y="200" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;头部使用 YAML 记录关键信息，正文用于内容&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="352" x="3600" y="585" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" value="&lt;div class=&quot;snippet-clipboard-content notranslate position-relative overflow-auto&quot; style=&quot;box-sizing: border-box; margin-bottom: 16px; background-color: rgb(246, 248, 250); justify-content: space-between; display: flex; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; overflow: auto !important; position: relative !important;&quot;&gt;&lt;pre class=&quot;notranslate&quot; style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; border-radius: 6px; line-height: 1.45; overflow: auto;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; tab-size: 4; background: 0px 0px rgba(0, 0, 0, 0); border-radius: 6px; margin: 0px; padding: 0px; word-break: normal; border: 0px; line-height: inherit; overflow-wrap: normal; display: inline; overflow: visible;&quot;&gt;================================================================================&lt;br/&gt;构建的上下文:&lt;br/&gt;================================================================================&lt;br/&gt;[Role &amp;amp; Policies]&lt;br/&gt;你是一位资深的Python数据工程顾问。你的回答需要:1) 提供具体可行的建议 2) 解释技术原理 3) 给出代码示例&lt;br/&gt;&lt;br/&gt;[Task]&lt;br/&gt;如何优化Pandas的内存占用?&lt;br/&gt;&lt;br/&gt;[Evidence]&lt;br/&gt;Pandas内存优化的核心策略包括:&lt;br/&gt;1. 使用合适的数据类型(如category代替object)&lt;br/&gt;2. 分块读取大文件&lt;br/&gt;3. 使用 chunksize 参数&lt;br/&gt;---&lt;br/&gt;数据类型优化可以显著减少内存占用。例如,将int64降级为int32可以节省50%的内存。&lt;br/&gt;&lt;br/&gt;[Context]&lt;br/&gt;user: 我正在开发一个数据分析工具&lt;br/&gt;assistant: 很好!数据分析工具通常需要处理大量数据。您计划使用什么技术栈?&lt;br/&gt;user: 我打算使用Python和Pandas,已经完成了CSV读取模块&lt;br/&gt;assistant: 不错的选择!Pandas在数据处理方面非常强大。接下来您可能需要考虑数据清洗和转换。&lt;br/&gt;记忆: 用户正在开发数据分析工具,使用Python和Pandas&lt;br/&gt;记忆: 已完成CSV读取模块的开发&lt;br/&gt;&lt;br/&gt;[Output]&lt;br/&gt;请基于以上信息,提供准确、有据的回答。&lt;br/&gt;================================================================================&lt;br&gt;&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&quot;zeroclipboard-container&quot; style=&quot;box-sizing: border-box; animation: auto ease 0s 1 normal none running none;&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; class=&quot;octicon octicon-copy js-clipboard-copy-icon&quot;&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="630" width="820" x="1248" y="6530" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry height="60" width="550" x="827" y="610" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;这是整个流水线的核心，直接决定了最终上下文的质量&lt;/span&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="60" width="270" x="2190" y="4720" as="geometry" />
@@ -258,166 +258,184 @@
           <mxGeometry height="60" width="270" x="2205" y="4980" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-172" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-173" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+          <mxGeometry height="60" width="270" x="2693" y="2180" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-209" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-201">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-210" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-202">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;（2）索引文件&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3600" y="1500" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-207" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tNFW55iZ728InIklxEnu-204">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-208" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;（1）笔记文件格式&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3600" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="tNFW55iZ728InIklxEnu-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="270" x="3561" y="300" as="geometry" />
+        <mxCell id="tNFW55iZ728InIklxEnu-213" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tNFW55iZ728InIklxEnu-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-214" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; line-height: 1.25; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;9.4.2 存储格式详解&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3250" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;MemoryTool 主要关注&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 600; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;对话式记忆&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3600" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;构建长时程智能体的重要工具&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3600" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;提供的结构化外部记忆组件&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3600" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; line-height: 1.25; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;9.4.1 设计理念与应用场景&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3240" y="780" as="geometry" />
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&#xa;&lt;h3 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: 600; line-height: 1.25; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;9.3.4 完整使用示例&lt;/h3&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="60" width="270" x="573" y="6530" as="geometry" />
@@ -454,6 +472,66 @@
         </mxCell>
         <mxCell id="tNFW55iZ728InIklxEnu-198" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信息是以ContextPacket为单元传入的&lt;div&gt;比如，算相关性是以ContextPacket算的，保留和舍弃也是以ContextPacket为单元进行的&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="590" x="1640" y="3390" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-199" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; line-height: 1.25; border-bottom: 0.553097px solid rgba(209, 217, 224, 0.7); padding-bottom: 0.3em; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;NoteTool：结构化笔记&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="2840" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;对于需要长期追踪、结构化管理的&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 600; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;项目式任务&lt;/span&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;，我们需要一种更轻量、更人类友好的记录方式&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="3600" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-218" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tNFW55iZ728InIklxEnu-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-219" edge="1" parent="1" source="tNFW55iZ728InIklxEnu-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tNFW55iZ728InIklxEnu-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;用于快速检索和管理笔记&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="248" x="3960" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="笔记本身" vertex="1">
+          <mxGeometry height="60" width="120" x="3940" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="元数据" vertex="1">
+          <mxGeometry height="30" width="81" x="4210" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-206" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容" vertex="1">
+          <mxGeometry height="30" width="81" x="4211" y="1269" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-215" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; padding-left: 2em; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;快速检索&lt;/span&gt;：无需打开每个文件，直接从索引中查找&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="420" x="4310" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-216" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; padding-left: 2em; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;元数据管理&lt;/span&gt;：集中管理所有笔记的元数据&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="360" x="4310" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-217" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="270" width="460" x="3960" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-202" parent="tNFW55iZ728InIklxEnu-217" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" value="&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; text-align: start;&quot;&gt;{&lt;br/&gt;  &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;note_20250119_153000_0&quot;&lt;/span&gt;: {&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;id&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;note_20250119_153000_0&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;title&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;项目进展 - 第一阶段&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;type&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;task_state&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;tags&quot;&lt;/span&gt;: [&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;refactoring&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;phase1&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;backend&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;],&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;created_at&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;2025-01-19T15:30:00&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;updated_at&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;2025-01-19T15:30:00&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;,&lt;br/&gt;    &lt;span class=&quot;pl-ent&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;&quot;file_path&quot;&lt;/span&gt;: &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;./notes/note_20250119_153000_0.md&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;  }&lt;br/&gt;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="270" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-203" parent="tNFW55iZ728InIklxEnu-217" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="366" x="64" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; line-height: 1.25; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;9.4.3 核心操作详解&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="3250" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-221" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;七个核心操作&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="3620" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;（1）create：创建笔记&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="3870" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;格式处理/转换&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="3840" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="纯字符串 &amp;lt;--&amp;gt; 元数据(dict)+内容字符串" vertex="1">
+          <mxGeometry height="60" width="340" x="4150" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" value="&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; tab-size: 4; overflow-wrap: normal; padding: 16px; color: rgb(31, 35, 40); background-color: rgb(246, 248, 250); border-radius: 6px; line-height: 1.45; overflow: auto; word-break: normal; min-height: 52px; text-align: start;&quot;&gt;&lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;_create_note&lt;/span&gt;(...) &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box;&quot;&gt;str&lt;/span&gt;:&lt;br&gt;    &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;创建笔记&lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&quot;&quot;&quot;&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;datetime&lt;/span&gt; &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;datetime&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 1. 生成唯一ID&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_id&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;f&quot;note_&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;timestamp&lt;/span&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;_&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box; color: rgb(31, 35, 40);&quot;&gt;&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;len&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;index&lt;/span&gt;)&lt;span class=&quot;pl-kos&quot; style=&quot;box-sizing: border-box;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 2. 构建元数据....&lt;/span&gt;&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 3. 构建完整的 Markdown 文件内容&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;md_content&lt;/span&gt; &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;_build_markdown&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;metadata&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;content&lt;/span&gt;)&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 4. 保存到文件&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box; color: rgb(102, 57, 186);&quot;&gt;open&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;file_path&lt;/span&gt;, &lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&#39;w&#39;&lt;/span&gt;, &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box; color: rgb(10, 48, 105);&quot;&gt;&#39;utf-8&#39;&lt;/span&gt;) &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;f&lt;/span&gt;:&lt;br&gt;        &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;f&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;write&lt;/span&gt;(&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;md_content&lt;/span&gt;)&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-c&quot; style=&quot;box-sizing: border-box; color: rgb(89, 99, 110);&quot;&gt;# 5. 更新索引&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;self&lt;/span&gt;.&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;index&lt;/span&gt;[&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_id&lt;/span&gt;] &lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box; color: rgb(5, 80, 174);&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;metadata&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;br&gt;&lt;br&gt;    &lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box; color: rgb(207, 34, 46);&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box;&quot;&gt;note_id&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="480" width="570" x="4170" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="tNFW55iZ728InIklxEnu-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="4820" y="2430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
