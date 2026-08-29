@@ -245,7 +245,7 @@
           <mxGeometry height="60" width="200" x="990" y="3080" as="geometry" />
         </mxCell>
         <mxCell id="ip9mSomTllv_x-m5Yaj6-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="memory all implements add() and retrieve()" vertex="1">
-          <mxGeometry height="50" width="340" x="2060" y="3180" as="geometry" />
+          <mxGeometry height="50" width="340" x="2130" y="3170" as="geometry" />
         </mxCell>
         <mxCell id="ip9mSomTllv_x-m5Yaj6-219" edge="1" parent="1" source="ip9mSomTllv_x-m5Yaj6-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ip9mSomTllv_x-m5Yaj6-211">
           <mxGeometry relative="1" as="geometry" />
